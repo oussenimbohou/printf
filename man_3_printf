@@ -123,4 +123,6 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Written by \fBOusseni Mbohou\fR and \fBBella Ngekwi\fR.
+Written by
+Ousseni Mbohou (https://github.com/oussenimbohou)
+Bella Ngekwi (https://github.com/bella219)
