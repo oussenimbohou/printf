@@ -27,7 +27,7 @@ int prinpint(va_list arguments, char *buf, unsigned int ibuf)
 		ibuf = handl_buf(buf, '+', ibuf);
 	}
 	int_temp = int_in;
-	div = 1
+	div = 1;
 	while (int_temp > 9)
 	{
 		div *= 10;
