@@ -213,6 +213,7 @@ ev_print_func.c
 Function That Returns The Amount Of Indetifiers.
 
 Authors
-Ousseni Mbohou (http://github.com/oussenimbohou) Cho Bella (https://github.com/bella219)
+Ousseni Mbohou (http://github.com/oussenimbohou)
+Cho Bella (https://github.com/bella219)
 
 End
